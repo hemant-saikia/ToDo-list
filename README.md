@@ -1,6 +1,5 @@
 # ToDo List
 
-Functional, usable ToDo list to reinforce vanilla JavaScript concepts.
+Usable ToDo list with in browser memory storage. 
 
-Hosted on: http://ticktask.herokuapp.com/
-Can be used as your daily task list on your mobile/desktop browser. 
+To be used as your daily task list on your mobile/desktop browser. 
